@@ -38,16 +38,10 @@ theme:
 
   icon: 
     repo: fontawesome/brands/github # 右上角图标
+
 edit_uri: edit/main/docs # 编辑按钮跳转的链接 
 repo_url: https://github.com/1ceP3ak/WebSecurity # 右上角点击跳转的链接
 repo_name: 1ceP3ak.github.io # 右上角的名字
-
-# [Navigtion]
-nav: 
-  - 主页: "index.md"
-  - 练习: "CTF/CTF.md"
-    - CTFShow: "CTF/CTFShow.md"
-
 copyright: Copyright &copy; 1cePeak # 左下角的版权声明
 
 
@@ -57,8 +51,14 @@ extra:
   #   - icon: fontawesome/brands/twitter 
   #     link: https://twitter.com/wcowin_
   #   - icon: fontawesome/brands/github
-  #     link: https://github.com/Wcowin
+  #     link: https://github.com/1ceP3ak
   #   - icon: fontawesome/brands/bilibili
   #     link: https://space.bilibili.com/1407028951?spm_id_from=333.1007.0.0
   #   - icon: fontawesome/solid/paper-plane
-  #     link: mailto:<1135801806@qq.com> #联系方式
+  #     link: mailto:<xxx@qq.com> #联系方式
+
+# [Navigtion]
+nav: 
+  - 主页: "index.md"
+  - 练习: "CTF/CTF.md"
+    - CTFShow: "CTF/CTFShow.md"
