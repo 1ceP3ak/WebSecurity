@@ -45,6 +45,8 @@ repo_name: 1ceP3ak.github.io # 右上角的名字
 # [Navigtion]
 nav: 
   - 主页: "index.md"
+  - 练习: "CTF/CTF.md"
+      - CTFShow: "CTF/CTFShow.md"
   #   - 好用/好玩网站分享: blog/Webplay.md
   #   - What is Github: blog/Github.md
   #   - 解决谷歌翻译用不了的问题: blog/googletranslate.md
