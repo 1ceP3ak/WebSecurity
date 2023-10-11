@@ -58,8 +58,8 @@ extra:
   #     link: mailto:<xxx@qq.com> #联系方式
 
 # [Navigtion]
-nav: 
-  - 主页: "index.md"
-  - 练习: "CTF/CTF.md"
-    - CTFShow: "CTF/CTFShow.md"
-    - SQLI Labs: "CTF/SQLI Labs.md"
+nav:
+  - "index.md"
+  - 练习:
+    - CTFShow: "CTF/CTF.md"
+    - SQLI Labs: "CTF/CTFShow.md"
