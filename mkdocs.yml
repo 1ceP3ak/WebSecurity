@@ -63,3 +63,7 @@ nav:
   - 练习:
     - CTFShow: "CTF/CTF.md"
     - SQLI Labs: "CTF/CTFShow.md"
+  - PHP:
+    - CTFShow: "PHP/PHPStudy.md"
+  - Java:
+    - Java: ""
