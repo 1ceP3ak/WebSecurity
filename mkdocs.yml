@@ -64,6 +64,6 @@ nav:
     - CTFShow: "CTF/CTF.md"
     - SQLI Labs: "CTF/CTFShow.md"
   - PHP:
-    - CTFShow: "PHP/PHPStudy.md"
+    - PHP基础: "PHP/PHPStudy.md"
   - Java:
-    - Java: "Java/JavaStudy.md"
+    - Java基础: "Java/JavaStudy.md"
