@@ -61,7 +61,7 @@ extra:
 nav:
   - "index.md"
   - 练习:
-    - CTFShow: "CTF/CTFShow.md"
+    - CTFShow: "CTF/CTFShow/CTFShow.md"
     - SQLI Labs: "CTF/SQLI Labs.md"
   - PHP:
     - PHP基础: "PHP/PHPStudy.md"
