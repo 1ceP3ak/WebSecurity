@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://web.1cepeak.cn/</loc>
+         <lastmod>2024-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://web.1cepeak.cn/CTF/CTF/</loc>
+         <lastmod>2024-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://web.1cepeak.cn/CTF/SQLI%20Labs/</loc>
+         <lastmod>2024-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://web.1cepeak.cn/CTF/CTFShow/CTFShow/</loc>
+         <lastmod>2024-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://web.1cepeak.cn/Java/JavaStudy/</loc>
+         <lastmod>2024-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://web.1cepeak.cn/PHP/PHPStudy/</loc>
+         <lastmod>2024-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
